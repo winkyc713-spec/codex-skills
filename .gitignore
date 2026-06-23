@@ -1,0 +1,40 @@
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+*token*
+*secret*
+credentials.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Research literature and large datasets
+**/literature/**/*.pdf
+**/literature/**/*.doc
+**/literature/**/*.docx
+**/literature/**/*.zip
+**/data/
+**/datasets/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.sra
+
+# Local outputs
+output/
+outputs/
+tmp/
