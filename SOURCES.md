@@ -4,7 +4,7 @@
 
 | Skill | 本仓库路径 | 上游仓库 | 上游路径 | 固定版本/Commit | 许可证 | 本地修改 | 最近核对 |
 |---|---|---|---|---|---|---|---|
-| 示例 | `skills/example` | `owner/repo` | `path/to/skill` | `commit SHA` | 待核对 | 无 | YYYY-MM-DD |
+| Superpowers v6.0.3 | 独立 Fork：`winkyc713-spec/superpowers` | `obra/superpowers` | `skills/` | `896224c4b1879920ab573417e68fd51d2ccc9072` | MIT | 无 | 2026-06-23 |
 
 ## 核对清单
 
