@@ -7,6 +7,7 @@
 | Superpowers v6.0.3 | 独立 Fork：`winkyc713-spec/superpowers` | `obra/superpowers` | `skills/` | `896224c4b1879920ab573417e68fd51d2ccc9072` | MIT | 无 | 2026-06-23 |
 | frontend-design | `skills/frontend-design` | `anthropics/skills` | `skills/frontend-design/` | `57546260929473d4e0d1c1bb75297be2fdfa1949` | Apache-2.0 | 无 | 2026-06-23 |
 | Impeccable | 独立 Fork：`winkyc713-spec/impeccable` | `pbakaus/impeccable` | `.agents/skills/impeccable/` | `d2ab4ddee6fa63002fae680652b5fbd31735e280` | Apache-2.0 | 无 | 2026-06-23 |
+| Nature Skills | 独立 Fork：`winkyc713-spec/nature-skills` | `Yuan1z0825/nature-skills` | `skills/nature-*` + `skills/_shared` | `5d2ba1dee1c087be6de8f4a8aad4b27f04974be9` | Apache-2.0 | 无 | 2026-06-23 |
 
 ## 核对清单
 
